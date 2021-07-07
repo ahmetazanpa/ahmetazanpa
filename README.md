@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ahmetazanpa/ahmetazanpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ahmet-selçuk-a-628a74165/)
+![GitHub followers](https://img.shields.io/github/followers/ahmetazanpa?style=social)
 
-Here are some ideas to get you started:
+My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-628a74165/)**. I graduated from Anadolu University Management Information Systems department. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Technolgies & Tools
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
+![Git](https://img.icons8.com/ios-filled/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![VS](https://img.icons8.com/color/30/visual-studio.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Console](https://img.icons8.com/color/30/console.png)
+
+
+## 📈 GitHub Stats
+
+<a href="https://github.com/ahmetazanpa/ahmetazanpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetazanpa&hide=shell,java,css,javascript&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ahmetazanpa/ahmetazanpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetazanpa&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
+</a>
