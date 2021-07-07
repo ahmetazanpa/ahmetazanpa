@@ -6,8 +6,6 @@
 My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-628a74165/)**. I graduated from Anadolu University Management Information Systems department. 
 
 ## ⚡ Technolgies & Tools
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
