@@ -21,5 +21,5 @@ My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetazanpa&hide=shell,java,css,objective-c,ruby,html,starlark&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ahmetazanpa/ahmetazanpa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetazanpa&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="N1ght-Fury's github stats" />
+  
 </a>
