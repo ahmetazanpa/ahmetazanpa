@@ -8,7 +8,6 @@ My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-
 ## ⚡ Technolgies & Tools
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
-![Java](https://img.icons8.com/color/30/java.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![Git](https://img.icons8.com/ios-filled/30/git.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
