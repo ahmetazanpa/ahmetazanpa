@@ -16,7 +16,8 @@ My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
-![Linux](https://img.icons8.com/color/30/proxmox.png)
+![Ansible](https://img.icons8.com/color/30/ansible.png)
+![Promox](https://img.icons8.com/color/30/proxmox.png)
 
 
 ## 📈 GitHub Stats
