@@ -3,8 +3,6 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ahmet-selçuk-a-628a74165/)
 ![GitHub followers](https://img.shields.io/github/followers/ahmetazanpa?style=social)
 
-My name is **[AHMET SELÇUK AZANPA](https://www.linkedin.com/in/ahmet-selçuk-a-628a74165/)**. I graduated from Anadolu University Management Information Systems department. 
-
 ## ⚡ Technolgies & Tools
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
