@@ -61,8 +61,6 @@ Building scalable systems, automating everything, and now exploring AI-powered a
 
 ### 📊 GitHub Stats
 
-  ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmetazanpa&show_icons=true&theme=radical&count_private=true)
-  ![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmetazanpa&layout=compact&theme=radical)
   ![streak](https://streak-stats.demolab.com?user=ahmetazanpa&theme=radical)
 
 ---
