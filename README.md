@@ -9,10 +9,10 @@ Building scalable systems, automating everything, and now exploring AI-powered a
 
 ### 🧠 About Me
 
-- ⚙️ DevOps & Platform Engineering odaklı çalışıyorum  
-- ☁️ Kubernetes, Infrastructure as Code ve automation üzerine yoğunlaşıyorum  
-- 🤖 Son dönemde **AI / LLM / RAG sistemleri** geliştiriyorum  
-- 🔍 Özellikle **LangChain, vector databases ve agentic workflows** ilgimi çekiyor  
+- ⚙️ Focused on DevOps & Platform Engineering  
+- ☁️ Working with Kubernetes and Infrastructure as Code  
+- 🤖 Currently building AI / LLM / RAG-based systems  
+- 🔍 Interested in LangChain, vector databases and agentic workflows  
 
 ---
 
