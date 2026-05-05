@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet 👋</h1>
-<h3 align="center">🚀 DevOps | Platform Engineer | AI Enthusiast</h3>
+<h3 align="center">🚀 DevOps | Platform Developer Engineer | AI Enthusiast</h3>
 
 <p align="center">
 Building scalable systems, automating everything, and now exploring AI-powered applications 🤖
